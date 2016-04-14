@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-03-18 21:38:11 +0800
-categories: jekyll update
+title:  "Kobe 退役，我只是想你"
+date:   2016-04-14 23:34:00 +0800
+categories: lisa
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+今天是4月14，Kobe以60分结束了自己的最后一场职业生涯比赛；库里则以勇士赛季73胜的战绩刷新了历史；NBA的精彩是今天的焦点。
 
-Jekyll also offers powerful support for code snippets:
+![科比]({{baseurl}}/imgs/kobe.jpg)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+今晚回到家，微信没能联系上你，才意识到：如果你离开，可以做到无声无息，但尽管我已经做好你将要离开的准备，却依然会很伤心。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+作为人生中第一个真正喜欢的女生，在我眼里，你很美，相比之下我却丑陋的可怜；我想要变得帅气，但更多的是无能为力，我深刻地了解到没有办法在短时间内改变现状，甚至于有可能永远都拥有不了配得上你的帅气！
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+但在此刻，我只是想你。
